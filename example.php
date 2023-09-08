@@ -6,7 +6,7 @@ $greeting = 'Hello, ' . $username . '.';             // Greeting is 'Hello' + us
 $offer = [                                           // Create array to hold offer
     'item'     => 'Chocolate',                       // Item on offer
     'qty'      => 5,                                 // Quantity to buy
-    'price'    => 5,                                 // Usual price per pack
+    'price'    => 2,                                 // Usual price per pack
     'discount' => 4,                                 // Offer price per pack
 ];
 
