@@ -3,9 +3,13 @@ $nutrition = [
     'fat'   => 38, 
     'sugar' => 51, 
     'salt'  => 0.25,
+    'protien' => 2.6
+
 ];
 $nutrition['fat']   = 36;
 $nutrition['fiber'] = 2.1;
+$nutrition['protien'] = 7.3;
+
 ?>
 <!DOCTYPE html>
 <html>
