@@ -1,5 +1,5 @@
 # chapterOne
-PHP&amp;MySQL textbook walkthrough, chapter one.
+## PHP&amp;MySQL textbook walkthrough, chapter one.
 ---
 - Abbey Girvan
 - n0201636
